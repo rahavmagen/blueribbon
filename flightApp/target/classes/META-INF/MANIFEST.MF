@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: ￗﾞￗﾒￗﾟ
+Build-Jdk: 11.0.1
+Implementation-Title: flightApp
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: blue-Ribbon
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://projects.spring.io/spring-boot/flightApp/
+Created-By: Maven Integration for Eclipse
+
